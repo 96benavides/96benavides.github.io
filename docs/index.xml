@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taller Integrado MID 2021 on Clemente Benavides - MID 2021</title>
+    <link>https://beni-i.github.io/docs/</link>
+    <description>Recent content in Taller Integrado MID 2021 on Clemente Benavides - MID 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://beni-i.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre Mi</title>
+      <link>https://beni-i.github.io/docs/post_0/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_0/</guid>
+      <description>Información Personal</description>
+    </item>
+    
+    <item>
+      <title>Ableton Live 10</title>
+      <link>https://beni-i.github.io/docs/post_10/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_10/</guid>
+      <description>Tutorial</description>
+    </item>
+    
+    <item>
+      <title>Narrativa Volumen de Luz</title>
+      <link>https://beni-i.github.io/docs/post_4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_4/</guid>
+      <description>Encargo 04</description>
+    </item>
+    
+    <item>
+      <title>Diseño Generativo</title>
+      <link>https://beni-i.github.io/docs/post_6/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_6/</guid>
+      <description>Encargo 06</description>
+    </item>
+    
+    <item>
+      <title>vJumper</title>
+      <link>https://beni-i.github.io/docs/post_9/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/post_9/</guid>
+      <description>Benavides - Ogrodnik - Rodríguez</description>
+    </item>
+    
+  </channel>
+</rss>
