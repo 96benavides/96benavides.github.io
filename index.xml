@@ -9,47 +9,83 @@
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://beni-i.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre Mi</title>
-      <link>https://beni-i.github.io/docs/post_0/</link>
+      <link>https://beni-i.github.io/docs/01-sobre-mi/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beni-i.github.io/docs/post_0/</guid>
+      <guid>https://beni-i.github.io/docs/01-sobre-mi/</guid>
       <description>Información Personal</description>
     </item>
     
     <item>
       <title>Ableton Live 10</title>
-      <link>https://beni-i.github.io/docs/post_10/</link>
+      <link>https://beni-i.github.io/docs/02-ableton-live/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beni-i.github.io/docs/post_10/</guid>
-      <description>Tutorial</description>
-    </item>
-    
-    <item>
-      <title>Narrativa Volumen de Luz</title>
-      <link>https://beni-i.github.io/docs/post_4/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beni-i.github.io/docs/post_4/</guid>
-      <description>Encargo 04</description>
+      <guid>https://beni-i.github.io/docs/02-ableton-live/</guid>
+      <description>Tutorial Edición de Voces</description>
     </item>
     
     <item>
       <title>Diseño Generativo</title>
-      <link>https://beni-i.github.io/docs/post_6/</link>
+      <link>https://beni-i.github.io/docs/03-dise%C3%B1o-generativo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beni-i.github.io/docs/post_6/</guid>
-      <description>Encargo 06</description>
+      <guid>https://beni-i.github.io/docs/03-dise%C3%B1o-generativo/</guid>
+      <description>Trimaran</description>
+    </item>
+    
+    <item>
+      <title>Narrativa Volumen de Luz</title>
+      <link>https://beni-i.github.io/docs/04-narrativa-volumen-luz/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/04-narrativa-volumen-luz/</guid>
+      <description>Animaciones y Volúmenes</description>
     </item>
     
     <item>
       <title>vJumper</title>
-      <link>https://beni-i.github.io/docs/post_9/</link>
+      <link>https://beni-i.github.io/docs/05-vjumper/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beni-i.github.io/docs/post_9/</guid>
+      <guid>https://beni-i.github.io/docs/05-vjumper/</guid>
       <description>Benavides - Ogrodnik - Rodríguez</description>
+    </item>
+    
+    <item>
+      <title>Chicago Boys</title>
+      <link>https://beni-i.github.io/docs/06-documentales/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/06-documentales/</guid>
+      <description>Resumen / reflexión</description>
+    </item>
+    
+    <item>
+      <title>Mapa Mental</title>
+      <link>https://beni-i.github.io/docs/07-mapa-mental/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/07-mapa-mental/</guid>
+      <description>Mis amistades, mi universo</description>
+    </item>
+    
+    <item>
+      <title>Plastilina Conductiva</title>
+      <link>https://beni-i.github.io/docs/08-plastilina-conductiva/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/08-plastilina-conductiva/</guid>
+      <description>Un intento fallido</description>
+    </item>
+    
+    <item>
+      <title>Drawdio</title>
+      <link>https://beni-i.github.io/docs/09-drawdio/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beni-i.github.io/docs/09-drawdio/</guid>
+      <description>Un clasico, basico, de la electronica</description>
     </item>
     
   </channel>
